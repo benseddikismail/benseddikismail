@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Ismail, a computer science graduate student and software engineer working towards refining the way we experience life by crafting disruptive sofware solutions, while also disseminating and sharing the depth and possibilities of computer science with the world.
+
+
+I am Ismail, a graduate student in computer science and a software engineer dedicated to enhancing human experience through the creation of disruptive software solutions. In my pursuit, I strive not only to refine the way we engage with technology but also to illuminate the profound depth and boundless possibilities inherent in the field of computer science, extending its reach to broader audiences worldwide.
 <!--
 **benseddikismail/benseddikismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
